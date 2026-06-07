@@ -1,0 +1,6 @@
+{
+  "name": "YojnaConnect",
+  "description": "Unified citizen portal to discover, check eligibility, and apply to 500+ central and state government welfare initiatives in India with real-time AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
